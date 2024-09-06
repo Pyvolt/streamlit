@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+Lib/
+etc/
+share/
+.streamlit/
+Scripts/
+pyvenv.cfg
