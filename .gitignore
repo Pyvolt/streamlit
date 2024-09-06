@@ -5,3 +5,4 @@ share/
 .streamlit/
 Scripts/
 pyvenv.cfg
+gitpush.bat
